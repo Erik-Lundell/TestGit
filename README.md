@@ -1,2 +1,4 @@
 # TestGit
 Testar github
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZÅÄÖ
